@@ -8,7 +8,7 @@
 
 ## ✨ Live Preview
 
-[🌐 Visit Furnish Online](https://your-website-link.netlify.app/)
+[🌐 Visit Furnish Online](https://furnish-7.netlify.app/)
 ([https://your-website-link.netlify.app/](https://your-website-link.netlify.app/))
 
 ---
