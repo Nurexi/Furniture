@@ -1,6 +1,7 @@
 # ✨ Furnish – Premium Furniture Store
 
-**Furnish** is a fully responsive, visually immersive furniture eCommerce website built with **pure HTML**, **CSS**, and **JavaScript**. It combines rich UI design with smooth animations, category browsing, promotional offers, and a modern shopping experience—all without a backend.
+**Furnish** is a fully responsive, visually immersive furniture eCommerce website built with **pure HTML**, **CSS**, and **JavaScript**. It combines rich UI design with smooth animations, category browsing, promotional offers, and a modern shopping experience—all without a backend.<br>
+
 <img width="1195" height="640" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/6cb30dec-8570-4195-817a-7051d7f575c7" />
 
 ---
