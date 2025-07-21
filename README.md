@@ -52,3 +52,50 @@
 
 ## 📁 Project Structure
 
+
+
+
+
+
+
+---
+
+## 📱 Responsive Design
+
+- Optimized for:
+  - 📱 iPhone / Android
+  - 💻 Desktop and Laptops
+  - 📟 Tablets
+- Dynamic mobile menu with animated hamburger transitions
+
+---
+
+## 🧠 Future Enhancements
+
+- 🔐 Stripe or PayPal checkout integration  
+- 📦 Backend order handling (Node.js / Firebase / PHP)
+- 🌙 Toggleable dark/light theme from the UI
+- 💬 Live Chat Assistant or AI Product Helper
+
+---
+
+## 🧑‍💻 Author
+
+> 👨‍🎨 **Nuredin Seid**  
+> 💼 Software Engineering Student  
+> 🌍 Based in Ethiopia  
+> 📫 Contact: +251-95197-8014  
+> 💻 GitHub: [Nurexi](https://github.com/Nurexi)
+
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+<p align="center">
+  Made with ❤️ to craft beautiful spaces.
+</p>
+
