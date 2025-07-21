@@ -51,7 +51,19 @@
 ---
 
 ## 📁 Project Structure
-
+📦 Furnish/
+├── index.html
+├── styles.css
+├── script.js
+├── /images/
+│ ├── hero.jpg
+│ ├── categories.jpg
+│ └── products.jpg
+├── /screenshots/
+│ ├── hero.jpg
+│ ├── categories.jpg
+│ └── products.jpg
+└── README.md
 
 
 
